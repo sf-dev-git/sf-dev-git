@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakeel</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p style="opacity:0; align="left"> <img style="opacity:0;" src="https://komarev.com/ghpvc/?username=sf-dev-git&label=Profile%20views&color=0e75b6&style=flat" alt="sf-dev-git" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sf-dev-git" alt="sf-dev-git" /></a> </p>
 
 
