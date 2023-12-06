@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sf-dev-git&show_icons=true&locale=en" alt="sf-dev-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sf-dev-git&" alt="sf-dev-git" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SF-Dev?theme=wtf)
