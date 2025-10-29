@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakeel</h1>
 
-<p> I'm a self-proclaimed lazy web developer who loves making things work (when I feel like it 😅). I dabble in web development, server and network management, and hardware repair—basically anything that involves tinkering with both code and gadgets.
+<p> I'm a self-proclaimed lazy web developer who loves making things work (when I feel like it 😅). I dabble in web development, server and network management, and hardware repair basically anything that involves tinkering with both code and gadgets.
 
 When I'm not "fixing" things by turning them off and on again, you’ll find me pretending to manage Docker containers or troubleshoot servers like a pro.
 
